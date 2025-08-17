@@ -1,0 +1,7 @@
+print(123+456)
+print(456-123)
+print(34*4)
+print(round(456/123,2))
+print(456//123)
+print(456 % 123)
+print(456**2)
